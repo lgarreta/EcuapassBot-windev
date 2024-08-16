@@ -1,1 +1,1 @@
-../EcuapassBot4-dev/VERSION.txt
+Aug/16: r0.935  GUI: Release from file. DOC: Huaquillas Distrito. BOT: "aduanas pais-ciudad" Up-Down to wait cities.
